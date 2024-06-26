@@ -1,6 +1,13 @@
 # AI CAT CLASSIFIER
 This is a CNN-based model for image cat breed classification. It receives a cat image and identifies the breed to which it belongs.
 
+<div style='display: flex; justify-content: center'>
+
+![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)
+![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)
+
+</div>
+
 For this project, i used the **46 cat breeds** defined in the [purina](https://www.purina.com/cats/cat-breeds) website, as listed bellow.
 
 |                     |                   |                  |                   |
